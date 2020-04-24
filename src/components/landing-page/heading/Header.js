@@ -129,10 +129,10 @@ class Header extends Component {
               <div className="hero-content">
                 {/*  Mobile nav   */}
                 <p className="hero-sub-title">
-                  #FastAds Network #Faster Websites #Improve SEO
+                  #Faster Websites #Improve SEO
                 </p>
                 <h1 className="wow fadeInUp" data-wow-delay=".2s">
-                  <span>Advertisings Network</span>
+                  <span>Advertising Network</span>
                   <br /> We are a Ads network that you can trust to
                   keep your privacy.
                 </h1>
