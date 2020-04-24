@@ -51,7 +51,7 @@ class LandingPage extends PureComponent {
           <div className="container footer-wrapper">
             <div className="footer-lad">
               <p className="footer-ptag">
-                © Lad Network, 2019 All rights reserved.
+                © FastAds Network, 2020 All rights reserved.
               </p>
             </div>
 
