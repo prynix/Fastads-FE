@@ -133,7 +133,7 @@ class Header extends Component {
                 </p>
                 <h1 className="wow fadeInUp" data-wow-delay=".2s">
                   <span>Ads Network</span>
-                  <br /> We are a non creepy ad network that you can trust to
+                  <br /> We are a Ads network that you can trust to
                   keep your privacy.
                 </h1>
                 {/* <---------- Two buttons on header  Advertiser and Affiliate ---------> */}
