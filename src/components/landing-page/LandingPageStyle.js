@@ -256,7 +256,7 @@ export const LandingPageStyle = styled.div`
     background-size: cover;
     background-position: center;
     position: relative;
-    top: 15px;
+    top: 7px;
     @media (min-width: 481px) {
       position: initial;
     }
