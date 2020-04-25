@@ -250,8 +250,8 @@ export const LandingPageStyle = styled.div`
   /* --------------- Landing Logo --------------- */
 
   .landing-logo {
-    width: 280px;
-    height: 85px;
+    width: 295px;
+    height: 90px;
     background: url(${logo});
     background-size: cover;
     background-position: center;
